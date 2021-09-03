@@ -1,0 +1,618 @@
+Script started on Tue 03 Nov 2020 12:44:24 AM HST
+]0;buit@uhx02:~/project1[?1034huhx02:/home/b/buit/project1% ./project1
+Enter a file to read: record1.txt
+Record with account # 300 was added to list.
+Record with account # 200 was added to list.
+Record with account # 49 was added to list.
+Record with account # 4559 was added to list.
+Record with account # 1234 was added to list.
+File was read and loaded onto the list.
+
+Program will now start...
+
+Hello and welcome to the bank. Here we are able to
+manage your bank records stored in the bank's database.
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: p
+Print all records option was selected.
+
+All of the records in the list:
+
+Account #: 4559
+Name: Beyonce-the-First Jr.
+Address: 1029 Kalihi St 96822 Honolulu Hawaii
+
+Account #: 1234
+Name: Emily D.
+Address: 3459 Maunakea St Honolulu HI 96822
+
+Account #: 300
+Name: Tracy
+Address: 1000 Pono St Honolulu Hawaii
+
+Account #: 200
+Name: Robert Downey Jr.
+Address: 1234 Random Street in Hawaii
+
+Account #: 49
+Name: Tenha Kim
+Address: 9843 Mott Smith St Honolulu Hawaii United States
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: a
+Add new record option was selected.
+
+Adding a new record..Please wait...
+Enter an account #: 5000
+For name please stay within the 25 characters limit.
+Otherwise your name will not process properly.
+
+Enter a name: Britney Sears
+
+For address, please stay within the 80 characters limit.
+Otherwise your record will not process properly.
+When you are done entering your adddress, press enter two times.
+
+Enter address(from empty line to finish): 1000 Pono St
+Honolulu HI 96822
+United States
+Record with account # 5000 was added to list.
+
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: p
+Print all records option was selected.
+
+All of the records in the list:
+
+Account #: 5000
+Name: Britney Sears
+
+Address: 1000 Pono St
+Honolulu HI 96822
+United States
+
+
+Account #: 4559
+Name: Beyonce-the-First Jr.
+Address: 1029 Kalihi St 96822 Honolulu Hawaii
+
+Account #: 1234
+Name: Emily D.
+Address: 3459 Maunakea St Honolulu HI 96822
+
+Account #: 300
+Name: Tracy
+Address: 1000 Pono St Honolulu Hawaii
+
+Account #: 200
+Name: Robert Downey Jr.
+Address: 1234 Random Street in Hawaii
+
+Account #: 49
+Name: Tenha Kim
+Address: 9843 Mott Smith St Honolulu Hawaii United States
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: 1
+Add new record option was selected.
+
+Adding a new record..Please wait...
+Enter an account #: 1000
+For name please stay within the 25 characters limit.
+Otherwise your name will not process properly.
+
+Enter a name: Tenha K.
+
+For address, please stay within the 80 characters limit.
+Otherwise your record will not process properly.
+When you are done entering your adddress, press enter two times.
+
+Enter address(from empty line to finish): 3490 Bishop St Apt. 1300
+Honolulu HI
+United States
+Record with account # 1000 was added to list.
+
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: p
+Print all records option was selected.
+
+All of the records in the list:
+
+Account #: 5000
+Name: Britney Sears
+
+Address: 1000 Pono St
+Honolulu HI 96822
+United States
+
+
+Account #: 4559
+Name: Beyonce-the-First Jr.
+Address: 1029 Kalihi St 96822 Honolulu Hawaii
+
+Account #: 1234
+Name: Emily D.
+Address: 3459 Maunakea St Honolulu HI 96822
+
+Account #: 1000
+Name: Tenha K.
+
+Address: 3490 Bishop St Apt. 1300
+Honolulu HI
+United States
+
+
+Account #: 300
+Name: Tracy
+Address: 1000 Pono St Honolulu Hawaii
+
+Account #: 200
+Name: Robert Downey Jr.
+Address: 1234 Random Street in Hawaii
+
+Account #: 49
+Name: Tenha Kim
+Address: 9843 Mott Smith St Honolulu Hawaii United States
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: ad
+Add new record option was selected.
+
+Adding a new record..Please wait...
+Enter an account #: 23
+For name please stay within the 25 characters limit.
+Otherwise your name will not process properly.
+
+Enter a name: Robert Jr.
+
+For address, please stay within the 80 characters limit.
+Otherwise your record will not process properly.
+When you are done entering your adddress, press enter two times.
+
+Enter address(from empty line to finish): 230 Avengers Base
+Unknown Secret
+United States
+Record with account # 23 was added to list.
+
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: p
+Print all records option was selected.
+
+All of the records in the list:
+
+Account #: 5000
+Name: Britney Sears
+
+Address: 1000 Pono St
+Honolulu HI 96822
+United States
+
+
+Account #: 4559
+Name: Beyonce-the-First Jr.
+Address: 1029 Kalihi St 96822 Honolulu Hawaii
+
+Account #: 1234
+Name: Emily D.
+Address: 3459 Maunakea St Honolulu HI 96822
+
+Account #: 1000
+Name: Tenha K.
+
+Address: 3490 Bishop St Apt. 1300
+Honolulu HI
+United States
+
+
+Account #: 300
+Name: Tracy
+Address: 1000 Pono St Honolulu Hawaii
+
+Account #: 200
+Name: Robert Downey Jr.
+Address: 1234 Random Street in Hawaii
+
+Account #: 49
+Name: Tenha Kim
+Address: 9843 Mott Smith St Honolulu Hawaii United States
+
+Account #: 23
+Name: Robert Jr.
+
+Address: 230 Avengers Base
+Unknown Secret
+United States
+
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: f
+Find record option was selected.
+
+Finding a record, account # required...
+Enter an account #: 5000
+
+Record Information:
+Account #: 5000
+Name: Britney Sears
+
+Address: 1000 Pono St
+Honolulu HI 96822
+United States
+
+Record(s) with account # 5000 were found.
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: f
+Find record option was selected.
+
+Finding a record, account # required...
+Enter an account #: 23
+
+Record Information:
+Account #: 23
+Name: Robert Jr.
+
+Address: 230 Avengers Base
+Unknown Secret
+United States
+
+Record(s) with account # 23 were found.
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: fin
+Find record option was selected.
+
+Finding a record, account # required...
+Enter an account #: 1234
+
+Record Information:
+Account #: 1234
+Name: Emily D.
+Address: 3459 Maunakea St Honolulu HI 96822
+Record(s) with account # 1234 were found.
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: f
+Find record option was selected.
+
+Finding a record, account # required...
+Enter an account #: 100
+Acount # 100 could not be found in the list.
+
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: del
+Delete a record option was selected.
+Deleting a record...account # required
+Enter an account #: 5000
+Record(s) with Account # 5000 was successfully deleted.
+
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: p
+Print all records option was selected.
+
+All of the records in the list:
+
+Account #: 4559
+Name: Beyonce-the-First Jr.
+Address: 1029 Kalihi St 96822 Honolulu Hawaii
+
+Account #: 1234
+Name: Emily D.
+Address: 3459 Maunakea St Honolulu HI 96822
+
+Account #: 1000
+Name: Tenha K.
+
+Address: 3490 Bishop St Apt. 1300
+Honolulu HI
+United States
+
+
+Account #: 300
+Name: Tracy
+Address: 1000 Pono St Honolulu Hawaii
+
+Account #: 200
+Name: Robert Downey Jr.
+Address: 1234 Random Street in Hawaii
+
+Account #: 49
+Name: Tenha Kim
+Address: 9843 Mott Smith St Honolulu Hawaii United States
+
+Account #: 23
+Name: Robert Jr.
+
+Address: 230 Avengers Base
+Unknown Secret
+United States
+
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: del
+Delete a record option was selected.
+Deleting a record...account # required
+Enter an account #: 1000
+Record(s) with Account # 1000 was successfully deleted.
+
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: p
+Print all records option was selected.
+
+All of the records in the list:
+
+Account #: 4559
+Name: Beyonce-the-First Jr.
+Address: 1029 Kalihi St 96822 Honolulu Hawaii
+
+Account #: 1234
+Name: Emily D.
+Address: 3459 Maunakea St Honolulu HI 96822
+
+Account #: 300
+Name: Tracy
+Address: 1000 Pono St Honolulu Hawaii
+
+Account #: 200
+Name: Robert Downey Jr.
+Address: 1234 Random Street in Hawaii
+
+Account #: 49
+Name: Tenha Kim
+Address: 9843 Mott Smith St Honolulu Hawaii United States
+
+Account #: 23
+Name: Robert Jr.
+
+Address: 230 Avengers Base
+Unknown Secret
+United States
+
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: delete
+Delete a record option was selected.
+Deleting a record...account # required
+Enter an account #: 23
+Record(s) with Account # 23 was successfully deleted.
+
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: p
+Print all records option was selected.
+
+All of the records in the list:
+
+Account #: 4559
+Name: Beyonce-the-First Jr.
+Address: 1029 Kalihi St 96822 Honolulu Hawaii
+
+Account #: 1234
+Name: Emily D.
+Address: 3459 Maunakea St Honolulu HI 96822
+
+Account #: 300
+Name: Tracy
+Address: 1000 Pono St Honolulu Hawaii
+
+Account #: 200
+Name: Robert Downey Jr.
+Address: 1234 Random Street in Hawaii
+
+Account #: 49
+Name: Tenha Kim
+Address: 9843 Mott Smith St Honolulu Hawaii United States
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: del
+Delete a record option was selected.
+Deleting a record...account # required
+Enter an account #: 1
+
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: p
+Print all records option was selected.
+
+All of the records in the list:
+
+Account #: 4559
+Name: Beyonce-the-First Jr.
+Address: 1029 Kalihi St 96822 Honolulu Hawaii
+
+Account #: 1234
+Name: Emily D.
+Address: 3459 Maunakea St Honolulu HI 96822
+
+Account #: 300
+Name: Tracy
+Address: 1000 Pono St Honolulu Hawaii
+
+Account #: 200
+Name: Robert Downey Jr.
+Address: 1234 Random Street in Hawaii
+
+Account #: 49
+Name: Tenha Kim
+Address: 9843 Mott Smith St Honolulu Hawaii United States
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: q
+Quit option was selected.
+
+Thank you for using the bank program
+Exiting Bank program now....
+
+Enter a file name to write to: recordWrite5.txt
+Records were written onto file "recordWrite5.txt".
+]0;buit@uhx02:~/project1uhx02:/home/b/buit/project1% q[Kexit
+exit
+
+Script done on Tue 03 Nov 2020 12:49:11 AM HST

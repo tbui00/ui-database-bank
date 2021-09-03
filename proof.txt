@@ -1,0 +1,50 @@
+Script started on Tue 03 Nov 2020 12:42:34 AM HST
+]0;buit@uhx02:~/project1[?1034huhx02:/home/b/buit/project1% touch *.c
+]0;buit@uhx02:~/project1uhx02:/home/b/buit/project1% make
+gcc -ansi -pedantic-errors -Wall -c user_interface.c
+gcc -ansi -pedantic-errors -Wall -c database.c
+gcc -o project1 user_interface.o database.o
+]0;buit@uhx02:~/project1uhx02:/home/b/buit/project1% make
+make: `project1' is up to date.
+]0;buit@uhx02:~/project1uhx02:/home/b/buit/project1% touch user_interface.c
+]0;buit@uhx02:~/project1uhx02:/home/b/buit/project1% make
+gcc -ansi -pedantic-errors -Wall -c user_interface.c
+gcc -o project1 user_interface.o database.o
+]0;buit@uhx02:~/project1uhx02:/home/b/buit/project1% touch *.o
+]0;buit@uhx02:~/project1uhx02:/home/b/buit/project1% make
+gcc -o project1 user_interface.o database.o
+]0;buit@uhx02:~/project1uhx02:/home/b/buit/project1% ./project1
+Enter a file to read: record1.txt
+Record with account # 300 was added to list.
+Record with account # 200 was added to list.
+Record with account # 49 was added to list.
+Record with account # 4559 was added to list.
+Record with account # 1234 was added to list.
+File was read and loaded onto the list.
+
+Program will now start...
+
+Hello and welcome to the bank. Here we are able to
+manage your bank records stored in the bank's database.
+
+Please select a menu option below to manage bank records:
+-------------------------------------------------------------
+1. add: Adds a new record
+2. printall: Prints all the records
+3. find: Find record(s) with specified account #
+4. delete: Delete existing record(s) using account #
+5. quit: Quit the program
+-------------------------------------------------------------
+
+Enter option: q
+Quit option was selected.
+
+Thank you for using the bank program
+Exiting Bank program now....
+
+Enter a file name to write to: recordWrited5.txt
+Records were written onto file "recordWrited5.txt".
+]0;buit@uhx02:~/project1uhx02:/home/b/buit/project1% exit
+exit
+
+Script done on Tue 03 Nov 2020 12:43:36 AM HST
